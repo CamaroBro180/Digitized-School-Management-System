@@ -32,11 +32,6 @@ py manage.py migrate
 py manage.py runserver
 ```
 
-- Download This Project Zip Folder and Extract it
-- Move to project folder in Terminal. Then run following Commands :
-```
-
-```
 - Now enter following URL in Your Browser Installed On Your Pc
 ```
 http://127.0.0.1:8000/
